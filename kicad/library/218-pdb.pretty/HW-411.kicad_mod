@@ -1,0 +1,205 @@
+(footprint "HW-411"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "U**"
+		(at 21.59 7.62 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "785359ec-a632-4fa2-aec5-1139117e7b7f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "HW-411"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7f7b7875-cf8e-4cc0-b4f0-dd26f3d61a80")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d6b7dec-7af6-4c08-83db-26fd877509d2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d493dfcd-89bc-4b8d-9834-74b6766578ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "credits" "cad from https://grabcad.com/library/arceli-3-40v-to-1-5-35v-dc-dc-voltage-converter-1"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "855cb94c-5ff5-47e2-9c5c-d669fbf4353d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -2.54 -2.54)
+		(end 43.18 20.32)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "821a4db1-bd5b-4adb-84c8-e17b17e40605")
+	)
+	(fp_rect
+		(start -2.54 -2.54)
+		(end 43.18 20.32)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "980f1019-1d0e-46ff-8c4c-ed8d0043807e")
+	)
+	(fp_text user "IN-\n"
+		(at 4.998478 13.966954 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2bb9eb0c-b84d-4215-96fc-6901318c29f6")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "IN+"
+		(at 4.998478 6.346954 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4b30634d-6e7b-4ced-9023-81385465f0e7")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "OUT+"
+		(at 29.204669 6.346954 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8cd6af31-3a05-4af1-a724-cb5628bee8a4")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "OUT-\n"
+		(at 29.204669 13.966954 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "923d5557-c017-4725-b1cc-0e46adbd6f0b")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "42c26958-0296-4a4e-af6c-7c122609b176")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 2.54 2.54)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.05)
+		(uuid "098d7626-44f8-48f6-874c-7064104e3b65")
+	)
+	(pad "2" thru_hole roundrect
+		(at 0 17.728473)
+		(size 2.54 2.54)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.05)
+		(uuid "d2875f5f-b8a8-4674-acb1-a34ace18c16e")
+	)
+	(pad "3" thru_hole roundrect
+		(at 40.629331 17.718923)
+		(size 2.54 2.54)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.05)
+		(uuid "bd927e72-a270-4f40-a7b6-88f26517e2d9")
+	)
+	(pad "4" thru_hole roundrect
+		(at 40.639999 -0.048324)
+		(size 2.54 2.54)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.05)
+		(uuid "3282de2c-dd15-4e30-a8ce-1d6bae1d2e5a")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/HW-411.STEP"
+		(opacity 0.8000)
+		(offset
+			(xyz 20.32 -8.89 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
