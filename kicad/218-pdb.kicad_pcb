@@ -653,13 +653,13 @@
 		(descr "SLW-12689-4A-N-D-4")
 		(tags "Switch")
 		(property "Reference" "SW1"
-			(at 2.957514 1.78278 90)
+			(at 2.956043 2.051068 90)
 			(layer "F.SilkS")
 			(uuid "8a0edc75-4003-4627-9a42-724cd87d22fa")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.125)
 				)
 			)
 		)
