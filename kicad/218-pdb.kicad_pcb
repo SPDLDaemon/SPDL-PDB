@@ -25524,7 +25524,7 @@
 		)
 	)
 	(gr_text "v2.0\n2026"
-		(at 99.314 94.488 0)
+		(at 99.922898 94.60369 0)
 		(layer "F.SilkS")
 		(uuid "b54c47e0-753b-46a7-a078-0195d3d2d081")
 		(effects
@@ -25560,7 +25560,7 @@
 		)
 	)
 	(gr_text "  Battery\n+- +-"
-		(at 93.353919 97.467361 0)
+		(at 93.451157 97.408111 0)
 		(layer "F.SilkS")
 		(uuid "eeae5d82-d6ca-4c11-b6ce-503910e6bb4b")
 		(effects
