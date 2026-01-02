@@ -40,7 +40,7 @@ jobs:
             kicad-cli pcb render --output '/workspace/renders/top.png' --background transparent --rotate '0,0,0' --width 1000 --height 1000 /workspace/kicad/218-pdb.kicad_pcb
             kicad-cli pcb render --output '/workspace/renders/back.png' --background transparent --rotate '179,0,180' --width 1000 --height 1000 /workspace/kicad/218-pdb.kicad_pcb
             kicad-cli pcb render --output '/workspace/renders/perspective1.png' --background transparent --perspective --zoom 0.65 --rotate '315,0,315' --width 1000 --height 1000 /workspace/kicad/218-pdb.kicad_pcb
-            kicad-cli pcb render --output '/workspace/renders/perspective2.png' --background transparent --perspective --zoom 0.65 --rotate '90,0,0' --width 1000 --height 1000 /workspace/kicad/218-pdb.kicad_pcb
+            kicad-cli pcb render --output '/workspace/renders/perspective2.png' --background transparent --perspective --zoom 0.65 --rotate '270,0,0' --width 1000 --height 1000 /workspace/kicad/218-pdb.kicad_pcb
           "
             
           git add .
