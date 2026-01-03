@@ -6297,20 +6297,19 @@
 		(dnp no)
 		(uuid "235d8a3a-073f-4dc4-ba92-960fc52d28c4")
 		(property "Reference" "D6"
-			(at 91.948 137.16 0)
+			(at 89.154 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "diode, >=1Amp"
-			(at 88.9 137.16 0)
+		(property "Value" "schottky diode, >=2 Amp"
+			(at 92.964 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_AnodeUp"
@@ -6331,7 +6330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" ""
 			(at 88.9 140.97 0)
 			(effects
 				(font
@@ -6358,7 +6357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part_Number" "spdl, 1N4935"
+		(property "Part_Number" ">=2 Amp schottky e.g. SB260S-E3/54 digikey 112-SB260S-E3/54CT-ND"
 			(at 88.9 140.97 0)
 			(effects
 				(font
