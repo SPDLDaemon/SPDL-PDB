@@ -27,3 +27,8 @@ two 3.3v regulators (to isolate components and/or provide more current)
     * make list of parts in readme by vendor
 * add documentation to readme
 * make documentation and diagrams
+
+## parts
+2x tamiya connectors for batteries
+
+components in BOM

@@ -386,11 +386,12 @@
 	)
 	(pad "1" thru_hole roundrect
 		(at 0 0)
-		(size 1.74 2.19)
+		(size 1.74 2)
 		(drill 1.19)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(roundrect_rratio 0.143678)
+		(roundrect_rratio 0.2873563218)
+		(thermal_bridge_angle 45)
 		(uuid "71545296-ef78-4c7c-9acc-d09974803762")
 	)
 	(pad "2" thru_hole oval
@@ -399,6 +400,7 @@
 		(drill 1.19)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
 		(uuid "1df38819-8c06-4c1f-bc52-8e67fa721bb3")
 	)
 	(pad "3" thru_hole oval
@@ -407,6 +409,7 @@
 		(drill 1.19)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
 		(uuid "74411188-a079-480f-ab25-ef32e6d3e06d")
 	)
 	(embedded_fonts no)
