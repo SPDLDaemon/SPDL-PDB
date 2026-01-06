@@ -1,4 +1,6 @@
 # Smart Product Design Lab - Power Distribution Board v2.0
+## slideshow 
+### [link to slideshow presentation](/218-pdb.pdf)
 ## features
 * 16 3.3v
 * 16 5v
