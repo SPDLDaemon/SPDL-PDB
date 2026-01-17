@@ -6,7 +6,7 @@
 	(descr "JST XH series connector, B3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
 	(tags "connector JST XH vertical")
 	(property "Reference" "REF**"
-		(at 2.5 -3.55 0)
+		(at 2.5 1.905 0)
 		(layer "F.SilkS")
 		(uuid "7204d52a-0b19-407b-bb65-eed0b112814c")
 		(effects
