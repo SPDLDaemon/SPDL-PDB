@@ -1,4 +1,11 @@
-26400422249237780
+26403959816315551
+218-pdb
+1101A4CQEA
+1101A4CQEA
+Switch
+0
+3
+3
 218-pdb
 CUI_TB007-508-02BE
 
@@ -69,6 +76,13 @@ Through hole pin header THT 1x03 2.54mm single row
 0
 3
 3
+218-pdb
+PinHeader_2x03_P2.54mm_Vertical
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
 218-pdb
 SLW-12689-4A-N-D
 SLW-12689-4A-N-D-4
