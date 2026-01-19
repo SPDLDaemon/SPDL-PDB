@@ -6,7 +6,7 @@
 	(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-03A example for new part number: 22-27-2031, 3 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 	(tags "connector Molex KK-254 vertical")
 	(property "Reference" "REF**"
-		(at 3.808101 -2.667161 270)
+		(at 1.27 -1.778 0)
 		(layer "F.SilkS")
 		(uuid "81549e2f-79d0-4ebb-ac96-551e51e832f9")
 		(effects

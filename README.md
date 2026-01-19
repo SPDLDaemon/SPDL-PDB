@@ -1,14 +1,7 @@
-# Smart Product Design Lab - Power Distribution Board v2.0
-## slideshow 
-### [link to slideshow presentation](/218-pdb.pdf)
+# Smart Product Design Lab - Power Distribution Board v2.1
 ## features
-* 8 3.3v plugs
-* 8 3.3v and 5v plugs
-* 8 5v plugs
-* 4 14v plugs
-* two 5v buck converters (to isolate servos from other systems)
-* two 3.3v regulators (to isolate components and/or provide more current)
-* 8 of the 3.3v and 8 of the 5v have signal wires brought out to separate pins so that for example all 3 wires of a servo can be plugged into the board and then the servo signal can be a socket-socket jumper wire from the pic board to the pdb
+* 16 JST XH plugs with 3.3v ground and 5 volts
+* 8 molex 254 plugs for servos
 
 ## user guide
 ![218PDBguide](/218PDBguide.drawio.png)
@@ -18,10 +11,9 @@
 ### [link to image of PCB traces](/pcb.pdf)
 
 ## assembly
-assembly video coming soon
+assembly guide coming soon
 
 ## images
-
 ![render of board](/renders/top.png)
 ![render of board back](/renders/back.png)
 ![render of board perspective1](/renders/perspective1.png)
@@ -37,3 +29,5 @@ assembly video coming soon
 1x fuse holder (with wires) and fuse
 
 1x PCB from ([gerber files](/gerbers.zip))
+
+flat head screwdrivers
