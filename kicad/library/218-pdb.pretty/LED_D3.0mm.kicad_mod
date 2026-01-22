@@ -216,7 +216,7 @@
 		(uuid "8cc55b34-a11d-4764-96e6-0c62d8032657")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Green.step"
 		(offset
 			(xyz 0 0 -2.5)
 		)
