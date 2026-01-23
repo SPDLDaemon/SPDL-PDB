@@ -30,5 +30,10 @@ assembly guide coming soon
 
 1x PCB from ([gerber files](/gerbers.zip))
 
-flat head screwdrivers
+
+JST XH sockets (16)
+JST XH crimps (48)
+
+small flathead screwdriver
+JST XH crimper
 
