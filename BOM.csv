@@ -19,6 +19,6 @@
 "R5","3.3k","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical","spdl","1"
 "SW1","5V switch","218-pdb:1101A4CQEA","1101A4CQEA","1"
 "TP1","ground","TestPoint:TestPoint_Bridge_Pitch5.08mm_Drill0.7mm","piece of wire","1"
-"U1,U3","TLV76133DCY","Package_TO_SOT_SMD:SOT-223-3_TabPin2","TLV76133DCY","2"
-"U2,U4","DC-DC buck","218-pdb:HW-411","HW-411 lm2596 buck converter module","2"
+"U1,U2","DC-DC buck","218-pdb:HW-411","HW-411 lm2596 buck converter module","2"
+"U3,U4","TLV76133DCY","Package_TO_SOT_SMD:SOT-223-3_TabPin2","TLV76133DCY","2"
 "U5,U6","TLV76150DCY","Package_TO_SOT_SMD:SOT-223-3_TabPin2","TLV76150DCY","2"
