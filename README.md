@@ -3,7 +3,7 @@
 * 16 JST XH plugs with 3.3v ground and 5 volts
 * 8 molex 254 plugs for servos
 
-## user guide (out of date)
+## user guide image
 ![218PDBguide](/218PDBguide.drawio.png)
 #### [link to user guide image](/218PDBguide.drawio.png)
 
