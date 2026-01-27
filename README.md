@@ -32,8 +32,9 @@ assembly guide coming soon
 
 
 JST XH sockets (16)
+
 JST XH crimps (48)
 
 small flathead screwdriver
-JST XH crimper
 
+JST XH crimper
