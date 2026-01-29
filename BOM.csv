@@ -6,7 +6,7 @@
 "FID1-FID4","90 degree header pin","218-pdb:PinHeader_1x01_P2.54mm_H","90 degree header pin","4"
 "FID5,FID6,FID10","jumper","218-pdb:jumper","pin jumper 0.1"" pitch Sullins QPC02SXGN-RC","3"
 "Fuse1","fuse","218-pdb:CUI_TB007-508-02BE","screw terminal, 5.08"" pitch, TB007-508-02BE","1"
-"J1-J16","Conn_01x03","218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical","3 pin JST XH","16"
+"J1-J16","Conn_01x03","218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical","3 pin JST XH","16"
 "J17-J24","Conn_01x03","218-pdb:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical","3 pin KK254 molex 0022232031","8"
 "J25,J26","Conn_01x04_Pin","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","4 header pins 0.1"" pitch","2"
 "J27","external 5V","218-pdb:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical","2 pin KK 254 molex 0022232021","1"
