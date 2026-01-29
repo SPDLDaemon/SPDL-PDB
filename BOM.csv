@@ -1,6 +1,7 @@
 "Reference","Value","Footprint","Part_Number","QUANTITY"
 "C1,C3,C6,C7","0.1 uF","Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm","0.1 uF ceramic capacitor","4"
-"C2,C4,C5,C8,C9","10 uF","Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm","10uF tantalum (polarized) capacitor","5"
+"C2,C4,C5,C8","10 uF","Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm","10uF tantalum (polarized) capacitor","4"
+"C9","220 uF","Capacitor_THT:CP_Radial_D5.0mm_P2.50mm","220uf electrolytic","1"
 "D1-D6","LED","218-pdb:LED_D3.0mm","3 mm diameter LED","6"
 "D10","diode, >=2 Amp","Diode_THT:D_DO-15_P2.54mm_Vertical_AnodeUp",">=2 Amp diode, e.g. Diotec 1N5060","1"
 "FID1-FID4","90 degree header pin","218-pdb:PinHeader_1x01_P2.54mm_H","90 degree header pin","4"
