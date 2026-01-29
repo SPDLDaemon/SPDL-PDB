@@ -30,11 +30,11 @@ assembly guide coming soon
 
 1x PCB from ([gerber files](/gerbers.zip))
 
+JST XH socket housings (16) 455-2219-ND
 
-JST XH sockets (16)
-
-JST XH crimps (48)
+JST XH socket crimps (48) 455-1135-1000-ND
 
 small flathead screwdriver
 
 JST XH crimper
+
