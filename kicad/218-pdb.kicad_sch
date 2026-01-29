@@ -14115,7 +14115,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 uF"
+		(property "Value" "220 uF"
 			(at 243.84 118.4909 0)
 			(effects
 				(font
@@ -14124,7 +14124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 240.9952 121.92 0)
 			(effects
 				(font
@@ -14178,7 +14178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part_Number" "10uF tantalum (polarized) capacitor"
+		(property "Part_Number" "220uf electrolytic"
 			(at 240.03 118.11 0)
 			(effects
 				(font
