@@ -91,8 +91,8 @@
 		(uuid "dcd8a37c-d97e-400a-9570-c1ed636e6cf2")
 	)
 	(fp_circle
-		(center 0 5.9)
-		(end 0.1 5.9)
+		(center -2.198553 4.568896)
+		(end -2.098553 4.568896)
 		(stroke
 			(width 0.2)
 			(type solid)
