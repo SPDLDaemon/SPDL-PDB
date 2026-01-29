@@ -1,4 +1,4 @@
-26403985560565799
+26405755212322086
 218-pdb
 1101A4CQEA
 1101A4CQEA
@@ -20,6 +20,13 @@ HW-411
 0
 4
 4
+218-pdb
+JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical
+JST XH series connector, B3B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical boss
+0
+3
+3
 218-pdb
 JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
 JST XH series connector, B3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator

@@ -8378,7 +8378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 190.5 25.4 0)
 			(effects
 				(font
@@ -11114,7 +11114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 262.89 25.4 0)
 			(effects
 				(font
@@ -13159,7 +13159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 212.09 41.91 0)
 			(effects
 				(font
@@ -13365,7 +13365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 242.57 41.91 0)
 			(effects
 				(font
@@ -16101,7 +16101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 232.41 41.91 0)
 			(effects
 				(font
@@ -16546,7 +16546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 232.41 25.4 0)
 			(effects
 				(font
@@ -16817,7 +16817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 252.73 41.91 0)
 			(effects
 				(font
@@ -17504,7 +17504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 212.09 25.4 0)
 			(effects
 				(font
@@ -17775,7 +17775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 222.25 25.4 0)
 			(effects
 				(font
@@ -18426,7 +18426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 222.25 41.91 0)
 			(effects
 				(font
@@ -20238,7 +20238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 200.66 41.91 0)
 			(effects
 				(font
@@ -20444,7 +20444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 262.89 41.91 0)
 			(effects
 				(font
@@ -20781,7 +20781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 252.73 25.4 0)
 			(effects
 				(font
@@ -21192,7 +21192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 242.57 25.4 0)
 			(effects
 				(font
@@ -22656,7 +22656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 190.5 41.91 0)
 			(effects
 				(font
@@ -22862,7 +22862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "218-pdb:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "218-pdb:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 200.66 25.4 0)
 			(effects
 				(font
