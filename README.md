@@ -8,10 +8,14 @@
 #### [link to user guide image](/218PDBguide.drawio.png)
 
 ### [link to schematic](/schematic.pdf)
-### [link to image of PCB traces](/pcb.pdf)
+#### [link to image of PCB traces](/pcb.pdf)
+### board explanation video coming soon
 
 ## assembly
-assembly guide coming soon
+### [assembly instructions](/assembly_instructions.md)
+
+### assembly video coming soon
+
 
 ## images
 ![render of board](/renders/top.png)
@@ -33,6 +37,8 @@ assembly guide coming soon
 JST XH socket housings (16) 455-2219-ND
 
 JST XH socket crimps (48) 455-1135-1000-ND
+
+4 inches of 18 AWG wire
 
 small flathead screwdriver
 
