@@ -9,15 +9,17 @@
 
 ### [link to schematic](/schematic.pdf)
 #### [link to image of PCB traces](/pcb.pdf)
-### board explanation video coming soon
+<!-- ### board explanation video coming soon -->
 
 ## assembly
 ### [assembly instructions](/assembly_instructions.md)
 
-### assembly video coming soon
-
+<!-- ### assembly video coming soon -->
 
 ## images
+![assembled board](/assembly%20photos/photo1.JPG)
+![top view](/assembly%20photos/photo2.JPG)
+
 ![render of board](/renders/top.png)
 ![render of board back](/renders/back.png)
 ![render of board perspective1](/renders/perspective1.png)

@@ -69,6 +69,8 @@ C5, C8: positive leads are on the right closer to U5 and U6
 
 ### Screw terminal blocks: J28-J31 for 14v, J32-J33 for battery, main1 for main switch
 
+![assembled board](/assembly%20photos/photo1.JPG)
+
 # Test the board!
 
 ###
