@@ -36,7 +36,7 @@
 
 2x tamiya connectors for batteries (with wires)
 
-1x main power switch
+1x main power switch (for example 141-RCA1913F1ABLKBLKWHT3-ND)
 
 1x fuse holder (with wires) and fuse
 
@@ -51,5 +51,6 @@ JST XH socket crimps (48) 455-1135-1000-ND
 small flathead screwdriver
 
 JST XH crimper
+
 
 
