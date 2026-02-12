@@ -14,9 +14,9 @@
 ## KiCAD Symbols
 
 ### [simple symbol](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb.kicad_sym)
-[![simple](hi)](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb.kicad_sym)
+[![simple](/renders/pdb%20simple.png)](/pdb.kicad_sym)
 ### [detailed symbol](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb-detailed.kicad_sym)
-[![detailed](hi)](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb-detailed.kicad_sym)
+[![detailed](/renders/pdb%20detailed.png)](/pdb-detailed.kicad_sym)
 ## assembly
 ### [assembly instructions](/assembly_instructions.md)
 
