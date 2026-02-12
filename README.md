@@ -11,12 +11,6 @@
 #### [link to image of PCB traces](/pcb.pdf)
 <!-- ### board explanation video coming soon -->
 
-## KiCAD Symbols
-
-### [simple symbol](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb.kicad_sym)
-[![simple](/renders/pdb%20simple.png)](/pdb.kicad_sym)
-### [detailed symbol](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb-detailed.kicad_sym)
-[![detailed](/renders/pdb%20detailed.png)](/pdb-detailed.kicad_sym)
 ## assembly
 ### [assembly instructions](/assembly_instructions.md)
 
@@ -30,6 +24,12 @@
 ![render of board back](/renders/back.png)
 ![render of board perspective1](/renders/perspective1.png)
 ![render of board perspective2](/renders/perspective2.png)
+
+## KiCAD Symbols
+### [simple symbol](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb.kicad_sym)
+[![simple](/renders/pdb%20simple.png)](/pdb.kicad_sym)
+### [detailed symbol](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb-detailed.kicad_sym)
+[![detailed](/renders/pdb%20detailed.png)](/pdb-detailed.kicad_sym)
 
 ## buying PCBs and components 
 1x set of components from [bill of materials](/BOM.csv)
