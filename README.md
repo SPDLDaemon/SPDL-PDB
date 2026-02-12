@@ -11,6 +11,12 @@
 #### [link to image of PCB traces](/pcb.pdf)
 <!-- ### board explanation video coming soon -->
 
+## KiCAD Symbols
+
+### [simple symbol](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb.kicad_sym)
+[![simple](hi)](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb.kicad_sym)
+### [detailed symbol](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb-detailed.kicad_sym)
+[![detailed](hi)](https://github.com/SPDLDaemon/SPDL-PDB/blob/main/pdb-detailed.kicad_sym)
 ## assembly
 ### [assembly instructions](/assembly_instructions.md)
 
@@ -45,4 +51,5 @@ JST XH socket crimps (48) 455-1135-1000-ND
 small flathead screwdriver
 
 JST XH crimper
+
 
