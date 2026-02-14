@@ -25,7 +25,7 @@
 
 * 2 batteries
 
-# Time to Solder!
+## Time to Solder!
 
 ### TLV76150DCY: U5, U6
 
@@ -74,6 +74,46 @@ also use 4 wires to connect the IN+ and OUT+ wires
 
 ![assembled board](/assembly%20photos/photo1.JPG)
 
-# Test the board!
+## Turning on the PDB for the first time
 
-###
+Connect the wires of the tamiya plugs to the battery screw terminals, making sure to connect the positive wire to the positive terminal and the negative wire to the negative terminal.
+
+Solder wires to the main power switch
+
+Connect the main power switch to the MAIN SWITCH screw terminal. Polarity doesn't matter for the switch.
+
+Connect the fuse holder to the FUSE screw terminal. Polarity doesn't matter for the fuse.
+
+Make sure that the three jumpers for NT1 and NT2 are not installed.
+
+Make sure that the main power switch is off.
+
+Make sure that the 5V switch is off (towards the edge of the board).
+
+Plug charged batteries into the tamiya connectors.
+
+Turn on the main power switch. If there is smoke turn the switch back off.
+
+Use a multimeter to measure the voltage between TP-U1 and the ground wire on the left of the board. 
+
+Adjust the screw on the U1 voltage regulator until TP-U1 is at 6.0 volts.
+
+Use a multimeter to measure the voltage between TP-U2 and the ground wire on the left of the board.
+
+Adjust the screw on the U2 voltage regulator until TP-U2 is at 5.0 volts (or whatever voltage you want to supply to your servos and any other components you connect to the molex connectors).
+
+Turn the main power switch back off.
+
+Plug the three jumpers into NT1 and NT2. Placing them all in the leftmost position is recommended, but check the [user guide](/218PDBguide.drawio.png) for more information on the different jumper settings.
+
+Turn the main power switch back on. If there is smoke turn the switch back off.
+
+All 6 lights should be on at similar brightness. You can use a multimeter to check that all the pins are supplying the correct voltages.
+
+Turn the main power switch back off.
+
+Turn the 5V switch on and check that D1,D2,D3,D4 are on and that D6 is off.
+
+Turn the PDB back off (and remember to turn it off whenever you are working on your circuit).
+
+### Congrats, your PDB is ready to use!
