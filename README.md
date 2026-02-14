@@ -22,7 +22,6 @@
 * 3.3-1 + 5-1: 1 amp (theoretical) ??? amps (tested), limited by the TLV761 linear voltage regulator
 * 3.3-2 + 5-2: 1 amp (theoretical) ??? amps (tested), limited by the TLV761 linear voltage regulator
 
- 2 amps (theoretical) ??? amps (tested), 
 ## images
 ![assembled board](/assembly%20photos/photo1.JPG)
 ![top view](/assembly%20photos/photo2.JPG)
