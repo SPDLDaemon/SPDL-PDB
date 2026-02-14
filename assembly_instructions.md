@@ -58,10 +58,11 @@ C5, C8: positive leads are on the right closer to U5 and U6
 ### small switch: SW1
 
 ### buck converters: U1, U2
+use 90 degree header pins FID1-FID4, trim the pins so that they don't touch each other
 
-    use 90 degree header pins FID1-FID4
+also use 4 wires to connect the IN+ and OUT+ wires
 
-    also use 4 wires to connect the IN+ and OUT+ wires
+![buck converter wiring](/assembly%20photos/regulatorPins.jpg)
 
 ### JST XH 3 pin connectors: J1-J16
 
