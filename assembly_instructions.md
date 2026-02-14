@@ -23,6 +23,8 @@
 
 * 4 1-inch pieces of 18 AWG wire
 
+* 2 batteries
+
 # Time to Solder!
 
 ### TLV76150DCY: U5, U6
