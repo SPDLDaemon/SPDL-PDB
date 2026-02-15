@@ -51,7 +51,7 @@ C5, C8: positive leads are on the right closer to U5 and U6
 
 ### Diode: D10, the banded end is the negative end and goes in the square hole on the left while the positive end goes in the round hole labeled A
 
-### 3 header pins: 3 sets of 3 for NT1 and 1 set of 3 for NT2
+### 3 header pins: 2 sets of 3 for NT1 and 1 set of 3 for NT2
 
 ### 4 header pins: J25, J26
 
@@ -72,6 +72,10 @@ also use 4 wires to connect the IN+ and OUT+ wires
 
 ### Screw terminal blocks: J28-J31 for 14v, J32-J33 for battery, main1 for main switch
 
+### 220uF capacitor: C9, the gray negative terminal stripe goes to the right.
+
+### piece of wire (use a resistor lead you trimmed): TP1, connect the two pads together to make a loop where you can clip an oscilloscope ground.
+
 ![assembled board](/assembly%20photos/photo1.JPG)
 
 ## Turning on the PDB for the first time
@@ -84,7 +88,9 @@ Connect the main power switch to the MAIN SWITCH screw terminal. Polarity doesn'
 
 Connect the fuse holder to the FUSE screw terminal. Polarity doesn't matter for the fuse.
 
-Make sure that the three jumpers for NT1 and NT2 are not installed.
+Make sure that the two jumpers for NT1 are not installed.
+
+Plug 1 shunt jumper into NT2, with the jumper on the left side of the board.
 
 Make sure that the main power switch is off.
 
@@ -96,7 +102,7 @@ Turn on the main power switch. If there is smoke turn the switch back off.
 
 Use a multimeter to measure the voltage between TP-U1 and the ground wire on the left of the board. 
 
-Adjust the screw on the U1 voltage regulator until TP-U1 is at 6.0 volts.
+Adjust the screw on the U1 voltage regulator until TP-U1 is at 6.0 volts. Counterclockwise will decrease the voltage and clockwise will increase the voltage.
 
 Use a multimeter to measure the voltage between TP-U2 and the ground wire on the left of the board.
 
@@ -104,7 +110,7 @@ Adjust the screw on the U2 voltage regulator until TP-U2 is at 5.0 volts (or wha
 
 Turn the main power switch back off.
 
-Plug the three jumpers into NT1 and NT2. Placing them all in the leftmost position is recommended, but check the [user guide](/218PDBguide.drawio.png) for more information on the different jumper settings.
+Plug 2 shunt jumpers into NT1, both on the left side.
 
 Turn the main power switch back on. If there is smoke turn the switch back off.
 
