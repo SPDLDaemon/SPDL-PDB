@@ -80,6 +80,8 @@ also use 4 wires to connect the IN+ and OUT+ wires
 
 ## Turning on the PDB for the first time
 
+#### Screw terminals are in the closed position when you first get them. Turn the screws counterclockwise as far as you can to open the terminals before connecting wires. Turn the screws clockwise to tighten the terminals on the wires.
+
 Connect the wires of the tamiya plugs to the battery screw terminals, making sure to connect the positive wire to the positive terminal and the negative wire to the negative terminal.
 
 Solder wires to the main power switch
