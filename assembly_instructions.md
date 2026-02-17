@@ -88,7 +88,7 @@ Solder wires to the main power switch
 
 Connect the main power switch to the MAIN SWITCH screw terminal. Polarity doesn't matter for the switch.
 
-Connect the fuse holder to the FUSE screw terminal. Polarity doesn't matter for the fuse.
+Connect the fuse holder to the FUSE screw terminal. Polarity doesn't matter for the fuse. If the ends of the wires are covered in solder, cut the solder off and strip the ends of the wires.
 
 Make sure that the two jumpers for NT1 are not installed.
 
