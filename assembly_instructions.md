@@ -28,8 +28,12 @@
 ## Time to Solder!
 
 ### TLV76150DCY: U5, U6
+There are two types of voltage regulators that look very similar.
+
+Make sure you see "150" in the code on the top of the chips.
 
 ### TLV76133DCY: U3, U4
+Make sure you see "133" in the code on the top of the chips.
 
 ### leds: D1-D6, the long lead is the positive lead and goes in the round hole to the right for each led.
 
