@@ -25,6 +25,8 @@
 
 * 2 batteries
 
+[Interactive BOM](/ibom.html) (download file and open in a browser)
+
 ## Time to Solder!
 
 ### TLV76150DCY: U5, U6

@@ -14,6 +14,8 @@
 ## assembly
 ### [assembly instructions](/assembly_instructions.md)
 
+[Interactive BOM](/ibom.html) (download file and open in a browser)
+
 <!-- ### assembly video coming soon -->
 
 ## current limits:
